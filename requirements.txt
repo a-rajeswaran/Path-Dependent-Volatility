@@ -1,0 +1,61 @@
+# --- Core utilities ---
+numpy
+pandas
+requests
+python-dotenv
+pillow
+rich
+pyyaml
+
+# --- Data science / ML ---
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+statsmodels
+joblib
+xgboost
+lightgbm
+
+# --- Deep learning ---
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# --- Jupyter / notebooks ---
+jupyter
+jupyterlab
+ipykernel
+notebook
+
+# --- Web frameworks ---
+flask
+fastapi
+uvicorn
+django
+
+# --- Databases ---
+sqlalchemy
+pymysql
+psycopg2-binary
+pymongo
+
+# --- Parsing / scraping ---
+beautifulsoup4
+lxml
+html5lib
+selenium
+
+# --- Testing ---
+pytest
+pytest-cov
+
+# --- Packaging / tools ---
+setuptools
+wheel
+black
+ruff
+mypy
